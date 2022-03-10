@@ -1,0 +1,37 @@
+/* nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid saddlebrown;
+   
+} */
+/* .name, .nav-Menu{
+    color: rgb(0, 35, 66);
+    font-size: 40px;;
+
+}
+.nav-Menu{
+    font-size: larger;
+    height: 10%;
+    background-color: aqua;    
+    
+}
+ */
+
+
+ .boxes{
+    border: 3px dotted rebeccapurple;
+    height: 800px;
+    
+ }
+ .box{
+    background-color: chartreuse;
+    border: 2px double rgb(207, 161, 161);
+    font-size: xx-large;
+    width: 25%;
+ }
+ 
+ .container{
+    
+    border: 3px  solid black;
+    display: block;
+    
+ }
