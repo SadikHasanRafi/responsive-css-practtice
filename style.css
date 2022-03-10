@@ -1,37 +1,20 @@
-/* nav{
-    background-color: rgba(0, 0, 0, 0.5);
-    border: 2px solid saddlebrown;
-   
+/* body{
+    margin: 0% 0% 0% 0%;
+    border: 0% 0% 0% 0%;
 } */
-/* .name, .nav-Menu{
-    color: rgb(0, 35, 66);
-    font-size: 40px;;
-
-}
-.nav-Menu{
-    font-size: larger;
-    height: 10%;
-    background-color: aqua;    
+.box{
+    height:800px;
+    width: 200px;
+    border: 2px dotted red;
     
 }
- */
-
-
- .boxes{
-    border: 3px dotted rebeccapurple;
+.container{
+    border: 2px solid rebeccapurple;
+    display: flex;
+    justify-content: stretch;
     height: 800px;
-    
- }
- .box{
-    background-color: chartreuse;
-    border: 2px double rgb(207, 161, 161);
-    font-size: xx-large;
-    width: 25%;
- }
- 
- .container{
-    
-    border: 3px  solid black;
-    display: block;
-    
- }
+    align-items: center;
+}
+.box-1, .box-2{
+    flex: 1;
+}
